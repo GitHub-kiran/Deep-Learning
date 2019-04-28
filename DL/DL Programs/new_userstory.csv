@@ -1,0 +1,14 @@
+Userstory,TC_id,TC_name,QC Status,steps,possibility,assigned to,Reason  
+US43431,295178,01.01 Conference Started message shown in the message stream,candidate,18,yes,kiran,
+US43690,289772,01.00_Conversation with deleted user_1 to 1 chat,candidate,10,yes,kiran,
+US43690,295192,,candidate,5,yes,Lois,
+US44470,289276,01.04 - Start conversation from 1-N contact card - Click on Avatar - Existing user,candidate,10,yes,kiran,
+US44470,289256,02.02 User Attempts to start Direct Message when Computer Disconnected from Network,Declined,13,no,,"step 11 says disconnect the LAN, which is not possible from automation "
+US42531,288456,01.01 - Add Members field gets scrollbar if needed  - Start new group conversation,candidate,16,yes,kiran,
+US42531,288496,01.01.1 - Add Members  - Start conversation with existing group,candidate,9,yes,kiran,
+US42531,288505,01.08 - Start conversation with only one contact.,done,7,yes,kiran,
+US42531,288503,01.07 - Verify tool tip on group conversation on dashboard.,candidate,12,yes,kiran,
+US42531,288560,01.09 - Verify Avatar in Conversation Panel,candidate,12,yes,kiran,
+US42532,288572,01.01 - Browser notifications - log in - When Mute Group conversations.,Declined,19,no,,step 15 say verify notification coming from TwW which is not possible
+US42532,288640,01.09 - Ensure Mute status is maintained through login and logout.,candidate,13,yes,kiran,here step 4 will be covered during launching of TwW browser instance
+US44247,302586,01.04_Group Header Avatar in Conversation Panel_over 16 users,candidate,3,yes,nishant,
