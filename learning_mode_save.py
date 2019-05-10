@@ -56,7 +56,6 @@ Y_test = np_utils.to_categorical(y_test, nb_classes)
 model = build_logistic_model(input_shape, nb_classes)
 
 model.summary()
-pdb.set_trace()
 # compile the model
 model.compile(optimizer='sgd', loss='categorical_crossentropy', metrics=['accuracy'])
 history = model.fit(X_train, Y_train,
